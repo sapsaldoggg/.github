@@ -22,7 +22,8 @@
 
 ### 시스템 설계
 
-<img src='https://user-images.githubusercontent.com/66045666/223048889-dcada919-8a4a-4c21-8418-fc37fa45560f.png' width='100%'/>
+![KakaoTalk_Photo_2023-03-06-19-28-22](https://user-images.githubusercontent.com/80155336/223084911-935ce8b1-f19a-4630-a114-67ffb75b6f90.png)
+
 
 <br>
 
