@@ -4,8 +4,6 @@
 ### 프로젝트 설명  
 혼밥하는 대학생들을 위해 밥친구를 매칭해주는 플랫폼입니다.
 
-<a href='https://seungyn.github.io/capstonIntroPage/'>혼밥메이트 소개페이지 링크</a>
-
 ### 역할  
 
 <div align="center">
